@@ -1,0 +1,29 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"AuthDialog\"><param name=\"ios-package\" value=\"AuthenticationDialog\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.rpdomain.hello"
+        },
+        "com.msopentech.authdialog": {
+            "PACKAGE_NAME": "com.rpdomain.hello"
+        }
+    },
+    "dependent_plugins": {}
+}

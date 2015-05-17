@@ -1,0 +1,15 @@
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\Background.png
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\com.rpdomain.hello.dll
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\com.rpdomain.hello.pdb
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\App.g.cs
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\com.rpdomain.hello.g.resources
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\com.rpdomain.hello.dll
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\com.rpdomain.hello.pdb
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\XapCacheFile.xml
+C:\Projects\PoC\NYP\appfiles\platforms\wp8\obj\Debug\Plugins\com.msopentech.authdialog\AuthenticationDialog.g.cs

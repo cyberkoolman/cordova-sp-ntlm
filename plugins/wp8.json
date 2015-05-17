@@ -1,0 +1,39 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "Properties/WMAppManifest.xml": {
+                "parents": {
+                    "/Deployment/App/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_NETWORKING\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"AuthDialog\"><param name=\"wp-package\" value=\"MSOpenTech.AuthDialog.AuthRequestHandler\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{449da160-fc4d-11e4-886d-010553df76aa}"
+        },
+        "com.msopentech.authdialog": {
+            "PACKAGE_NAME": "{449da160-fc4d-11e4-886d-010553df76aa}"
+        }
+    },
+    "dependent_plugins": {}
+}
